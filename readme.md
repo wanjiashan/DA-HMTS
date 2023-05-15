@@ -33,7 +33,11 @@ Given that the hyperparameters that have a significant impact on the DA-HMTS net
 |expansion factor|2|
 ### Model performance evaluation
 Prediction accuracy，Computational efficiency，Model interpretability
-![landslide](http://aiitbeidou.cn:8080/DA-HMTS/landslide.png)
+![landslide](http://aiitbeidou.cn:8080/DA-HMTS/img1.png)
+![landslide](http://aiitbeidou.cn:8080/DA-HMTS/img2.png)
+![landslide](http://aiitbeidou.cn:8080/DA-HMTS/img3.png)
+![landslide](http://aiitbeidou.cn:8080/DA-HMTS/img4.png)
+![landslide](http://aiitbeidou.cn:8080/DA-HMTS/img5.png)
 ### Conclusion
 DA-HMTS model is a high-performance hybrid model for multivariate time series prediction based on dual attention mechanisms. First, the model designs a variable selection module that adaptively selects feature variables based on the information gain rate criterion. Second, the feature attention mechanism and the temporal attention mechanism are applied to the time convolutional neural network and the long short-term memory network layer, respectively. Finally, a quantile loss function is designed to achieve interval prediction. Additionally, the proposed model is compared and analyzed with other methods using different datasets from various fields, and the following conclusions are drawn: 
 (1) The DA-HMTS model uses feature attention mechanism and temporal attention mechanism to optimize the output features of the TCN model and the output of the LSTM model, which improves the prediction accuracy of key moments. 
