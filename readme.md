@@ -34,7 +34,7 @@ Given that the hyperparameters that have a significant impact on the DA-HMTS net
 ### Model performance evaluation
 Prediction accuracy，Computational efficiency，Model interpretability
 ![landslide](http://aiitbeidou.cn:8080/DA-HMTS/img1.png)
-![landslide](http://aiitbeidou.cn:8080/DA-HMTS/img2.png)
+![landslide](http://aiitbeidou.cn:8080/DA-HMTS/img6.png)
 ![landslide](http://aiitbeidou.cn:8080/DA-HMTS/img3.png)
 ![landslide](http://aiitbeidou.cn:8080/DA-HMTS/img4.png)
 ![landslide](http://aiitbeidou.cn:8080/DA-HMTS/img5.png)
